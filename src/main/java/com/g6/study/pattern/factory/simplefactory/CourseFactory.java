@@ -4,6 +4,11 @@ import com.g6.study.pattern.factory.ICourse;
 
 /**
  * Created by huixiaolv on 18/03/2019.
+ *
+ *
+ * 简单工厂模式：
+ *      由一个工厂对象决定创建出哪一种产品类的实例。创建型模式。
+ *
  */
 public class CourseFactory {
 
